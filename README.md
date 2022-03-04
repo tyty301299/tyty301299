@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ty</h1>
-<h3 align="center">I'm Nguyen Dinh Ty, a final-year student 🚀 from DAU. Beside's programming, I enjoy listiening music and e-sport...</h3>
+<h1 align="left">Hi 👋, I'm Ty</h1>
+<h3 align="left">I'm Nguyen Dinh Ty, a final-year student 🚀 from DAU. Beside's programming, I enjoy listiening music and e-sport...</h3>
 <img align="right" alt="coding" width="400" src="https://resources.mindx.edu.vn/uploads/images/yeu-cau-cua-lap-trinh-vien-4.gif">
-<h3 align="left">Connect with me:</h3>
+
 
 <p align="left">
 <a href="https://resources.mindx.edu.vn/uploads/images/yeu-cau-cua-lap-trinh-vien-4.gif">
@@ -14,7 +14,6 @@
 <h3 align="left">Skill Tools : </h3>
 <p align="left">
  </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
- 
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
