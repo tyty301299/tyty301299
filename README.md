@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<img align="right" alt="Coding", width="400" ,src="https://resources.mindx.edu.vn/uploads/images/yeu-cau-cua-lap-trinh-vien-4.gif">
+<img alt="Coding" ,src="https://resources.mindx.edu.vn/uploads/images/yeu-cau-cua-lap-trinh-vien-4.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
