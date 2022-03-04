@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ty</h1>
 <h3 align="center">I'm Nguyen Dinh Ty, a final-year student 🚀 from DAU. Beside's programming, I enjoy listiening music and e-sport...</h3>
-
+<img align="right" alt="coding" width="400" src="https://resources.mindx.edu.vn/uploads/images/yeu-cau-cua-lap-trinh-vien-4.gif">
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
